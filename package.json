@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "react-native-deprecated-custom-components": "^0.1.1",
-    "react-native-orientation-listener": "0.0.4"
+    "react-native-orientation-listener": "https://github.com/walmartlabs/react-native-orientation-listener/tarball/6aa6f3b87d1e202f48ecbeaf55fb37616ee44268"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.2",
