@@ -3,7 +3,7 @@
 import ReactNative from 'react-native';
 import Navigator from 'react-native-deprecated-custom-components';
 
-import configureLayoutAnimation from './lib/configureLayoutAnimation';
+import { configureLayoutAnimation } from './lib/configureLayoutAnimation';
 import createResponsiveComponent from './lib/createResponsiveComponent';
 import createResponsiveStyleSheet from './lib/createResponsiveStyleSheet';
 
